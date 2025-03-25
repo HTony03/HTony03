@@ -9,7 +9,6 @@ I like writing small python projects, and would like to study java when I’m fr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Htony03&layout=compact)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HTony03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Htony03&show_icons=true&theme=dark"
@@ -26,7 +25,5 @@ I like writing small python projects, and would like to study java when I’m fr
 **Some of my repos：**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htony03&repo=miniairways_mod_manager)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htony03&repo=rail_route_schedule_editor)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htony03&repo=nonebot_plugin_github_release_notifier)](https://github.com/anuraghazra/github-readme-stats)
