@@ -24,6 +24,6 @@ I like writing small python projects, and would like to study java when I’m fr
 
 **Some of my repos：**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htony03&repo=miniairways_mod_manager)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htony03&repo=rail_route_schedule_editor)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htony03&repo=nonebot_plugin_github_release_notifier)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htony03&repo=miniairways_mod_manager)](https://github.com/HTony03/miniairways_mod_manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htony03&repo=rail_route_schedule_editor)](https://github.com/HTony03/rail_route_schedule_editor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=htony03&repo=nonebot_plugin_github_release_notifier)](https://github.com/Htony03/nonebot_plugin_github_release_notifier)
