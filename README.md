@@ -1,7 +1,7 @@
 ### Hello there
 **Heres HTony03**
 
-I’m currently a high school student in Shanghai.
+I’m currently a college student in Shanghai.
 
 I like writing small python projects, and would like to study java when I’m free.
 
