@@ -14,9 +14,12 @@ I like writing small python projects, and would like to study java when I’m fr
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htony03&hide_border=true&layout=donut-vertical&langs_count=5&theme=dark">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=htony03&theme=dark&hide_border=true&layout=compact&langs_count=22"/>
+  <picture>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Htony03&hide_border=true&layout=donut-vertical&langs_count=5&theme=dark">
+  </picture>
+  <picture>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=htony03&theme=dark&hide_border=true&layout=compact&langs_count=22"/>
+  </picture>
 </br>
 
 <picture>
